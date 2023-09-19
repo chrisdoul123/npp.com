@@ -1,0 +1,21 @@
+manifest.json
+{
+  "name": "Wedding Photo Sharing",
+  "short_name": "Wedding Photos",
+  "description": "A PWA for sharing wedding photos.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#ffffff"
+}
